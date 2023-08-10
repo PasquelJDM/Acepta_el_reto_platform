@@ -9,11 +9,11 @@ El último caso de prueba, que no debe procesarse, proporciona un rectángulo en
 SALIDA
 Para cada caso de prueba se escribirá, en una línea independiente, el área del rectángulo dado.
 
-ENTRADA DE EJEMPLO
-1 1 4 3
-0 0 1 1
+ENTRADA DE EJEMPLO  
+1 1 4 3  
+0 0 1 1  
 9 7 3 6
 
-SALIDA DE EJEMPLO
-6
+SALIDA DE EJEMPLO  
+6  
 1
